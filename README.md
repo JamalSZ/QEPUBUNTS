@@ -1,5 +1,5 @@
 # QEPUBUNTS
-Implementation of our SIGKDD 2024 Paper "Quantifying and Estimating the Predictability Upper Bound of Univariate Numeric Time Series"
+Implementation of our SIGKDD 2024 Paper "Quantifying and Estimating the Predictability Upper Bound of Univariate Numeric Time Series" https://dl.acm.org/doi/10.1145/3637528.3671995
 
 # Experiments
 

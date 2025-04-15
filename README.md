@@ -1,7 +1,7 @@
 # QEPUBUNTS
 Implementation of our SIGKDD 2024 Paper "Quantifying and Estimating the Predictability Upper Bound of Univariate Numeric Time Series"
 
-# Research Paper Experiments
+# Experiments
 
 This repository contains the Python code used to perform the experiments described in our research paper. The experiments are organized into separate folders, with scripts to generate figures and results, which are stored in the `Results` folder under each experiement.
 
